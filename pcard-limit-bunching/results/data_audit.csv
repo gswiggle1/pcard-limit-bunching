@@ -1,0 +1,49 @@
+file,rows,month_in_data,duplicate_of,unparsed_amounts,unparsed_dates
+pcard_public_202607.csv,33351,2026-07,,0,0
+pcard_public_202608.csv,35673,2026-08,,0,0
+pcard_public_202609.csv,36980,2026-09,,0,0
+pcard_public_20240506120520.csv,40771,2024-04,,0,0
+pcard_public_202406 (1).csv,33328,2024-06,,0,0
+pcard_public_202407.csv,34138,2024-07,,0,0
+pcard_public_202408.csv,39103,2024-08,,0,0
+pcard_public_202409.csv,38329,2024-09,,0,0
+pcard_public_202410.csv,40089,2024-10,,0,0
+pcard_public_202411.csv,32347,2024-11,,0,0
+pcard_public_202412.csv,27313,2024-12,,0,0
+pcard_public_202501.csv,33655,2025-01,,0,0
+pcard_public_202502.csv,33083,2025-02,,0,0
+pcard_public_202503.csv,39398,2025-03,,0,0
+pcard_public_202505.csv,39863,2025-04,,0,0
+pcard_public_202506.csv,34055,2025-06,,0,0
+pcard_public_202507.csv,33215,2025-07,,0,0
+pcard_public_202508.csv,34959,2025-08,,0,0
+pcard_public_202509.csv,37549,2025-09,,0,0
+pcard_public_202510_without-row-id.csv,38654,2025-10,,0,0
+pcard_public_202511_withoutrowid-.csv,30698,2025-11,,0,0
+pcard_public_202512_without-row-id (1).csv,26369,2025-12,,0,0
+pcard_public_202512_without-row-id.csv,26369,2025-12,pcard_public_202512_without-row-id (1).csv,0,0
+pcard_public_202602_without-row-id- (1).csv,36267,2026-02,,0,0
+pcard_public_202603_without-rowid.csv,39735,2026-03,,0,0
+pcard_public_202604_without_row_id (1).csv,39377,2026-04,,0,0
+pcard_public_202604_without_row_id.csv,39377,2026-04,pcard_public_202604_without_row_id (1).csv,0,0
+pcard_public_202606_without_row_id (1).csv,34361,2026-05,,0,0
+pcard_public_202606_without_row_id.csv,34361,2026-05,pcard_public_202606_without_row_id (1).csv,0,0
+pcard_public_202606_without_rox_id (1).csv,35321,2026-06,,0,0
+pcard_public_202301.csv,28728,2022-12,,0,0
+pcard_public_202302.csv,32750,2023-01,,0,0
+pcard_public_202303.csv,32898,2023-02,,0,0
+pcard_public_20230413050436.csv,38844,2023-03,,0,0
+pcard_public_202305.csv,36223,2023-04,,0,0
+pcard_public_202306.csv,36443,2023-05,,0,0
+pcard_public_202307.csv,34279,2023-06,,0,0
+pcard_public_202308.csv,31997,2023-07,,0,0
+pcard_public_202309.csv,37393,2023-08,,0,0
+pcard_public_202310.csv,35310,2023-09,,0,0
+pcard_public_202311.csv,38516,2023-10,,0,0
+pcard_public_20231216120157.csv,31252,2023-11,,0,0
+pcard_public_20240110070114.csv,27539,2023-12,,0,0
+pcard_public_202402.csv,33719,2024-01,,0,0
+pcard_public_202403.csv,36582,2024-02,,0,0
+pcard_public_20240430060408.csv,37593,2024-03,,0,0
+pcard_public_20240506120520.csv,40771,2024-04,pcard_public_20240506120520.csv,0,0
+pcard_public_20240603110640.csv,37889,2024-05,,0,0

@@ -1,0 +1,46 @@
+{
+  "n_transactions": 1406839,
+  "n_agency_txns": 563308,
+  "months": "2022-12..2026-09",
+  "n_cardholders": 9543,
+  "n_agencies": 120,
+  "unlocked_cardholders": {
+    "n_unlocked": 165,
+    "n_control": 653,
+    "ratio": {
+      "unlocked_pre": 1.4479638009049773,
+      "unlocked_post": 1.3859649122807018,
+      "control_pre": 1.9259259259259258,
+      "control_post": 1.9557522123893805
+    },
+    "did_near_per10k": -10.268656515916238,
+    "did_se": 8.495126998704855,
+    "did_ci": [
+      -27.515470882481985,
+      5.670684153701752
+    ],
+    "unlocked_post_near": 79,
+    "unlocked_post_base_per_bin": 57.0,
+    "unlocked_post_z_vs_no_spike": 2.9139711855430965
+  },
+  "odot": {
+    "odot_share_of_excess_pre": 0.658273381294964,
+    "odot_share_of_excess_post": 0.8741159830268741,
+    "odot_top_merchants": {
+      "BG PRODUCTS INC": 46,
+      "HALL MANUFACTURING": 36,
+      "NAPA AUTO PARTS 0032509": 34,
+      "GRAINGER": 27,
+      "FASTENAL COMPANY 01OKADA": 23,
+      "QUADIENT LEASING USA O": 21
+    },
+    "odot_top_mcc": {
+      "INDUSTRIAL SUPPLIES NOT ESLEWHERE CLASSI": 116,
+      "AUTOMOTIVE PARTS  ACCESSORIES STORES": 96,
+      "BUSINESS SERVICES NOT ELSEWHERE CLASSIFI": 41,
+      "CONSTRUCTION MATERIALS": 31
+    },
+    "share_near_cap_in_last_20_dollars": 0.17765222849968612,
+    "share_near_cap_from_repeat_cardholders": 0.7526679221594476
+  }
+}
